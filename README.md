@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Bist</h1>
 <h3 align="center">A passionate MERN stack student from Nepal</h3>
-
+<p align="left"> <a https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDD4You&psig=AOvVaw0cun_SHWgtPGrs9RTtV3eX&ust=1690014846582000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjJu4SGsp-AAxUGyKACHTq8BigQr4kDegUIARDQAQ> <img 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajbist&label=Profile%20views&color=0e75b6&style=flat" alt="pankajbist" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajbist" alt="pankajbist" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
