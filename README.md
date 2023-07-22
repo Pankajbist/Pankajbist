@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Bist</h1>
 <h3 align="center">A passionate MERN stack student from Nepal</h3>
+<p align="middle"> <img src="https://github.com/Pankajbist/Pankajbist/blob/main/download.png?raw=true" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajbist&label=Profile%20views&color=0e75b6&style=flat" alt="pankajbist" /> </p>
 
